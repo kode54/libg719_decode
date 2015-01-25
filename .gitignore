@@ -5,3 +5,4 @@ Release
 *.user
 *.opensdf
 *.sdf
+*.suo
