@@ -1,6 +1,6 @@
-LIBRARY libg7221_decode.dll
+LIBRARY libg719_decode.dll
 EXPORTS
-    g7221_decode_frame @1
-    g7221_free @2
-    g7221_init @3
-    g7221_reset @4
+    g719_decode_frame @1
+    g719_free @2
+    g719_init @3
+    g719_reset @4

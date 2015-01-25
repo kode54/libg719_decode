@@ -1,3 +1,7 @@
 Debug
+
 Release
+
 *.user
+*.opensdf
+*.sdf
