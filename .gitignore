@@ -1,8 +1,18 @@
-Debug
+.*
+!/.gitignore
+!.gitattributes
+!.github
 
+Debug
 Release
+x64
 
 *.user
 *.opensdf
 *.sdf
 *.suo
+
+*.o
+*.a
+*.so
+*.dll
